@@ -1,9 +1,9 @@
 {
-    "name": "magento2translations/language_es_es",
+    "name": "piotrekkaminski/language_es_es",
     "description": "European Spanish (español de España) Magento2 Language Pack (es_ES) - Crowdsourced",
     "homepage": "http://magento2translations.github.io/",
     "license": [
-        "OSL-3.0",
+        "OSL-3.0"
     ],
     "authors": [
         {
